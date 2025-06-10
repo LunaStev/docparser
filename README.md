@@ -5,7 +5,7 @@ Extract Rust documentation comments from source files and output them in JSON or
 ---
 
 ## Features
-- 
+
 - Parses Rust source files and collects:
   - Module-level documentation (`//!`)
   - Function documentation (`///`)
